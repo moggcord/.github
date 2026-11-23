@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/moggcord/.github/main/profile/assets/moggcord-header.webp" width="700" alt="">
   <h1>Moggcord™</h1>
   <p>Plugins and themes for Discord on desktop, mobile and the web.</p>
   <p>
